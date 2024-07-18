@@ -1,0 +1,6 @@
+#We are using Sentinel-2 surface reflectance
+ee.ImageCollection('COPERNICUS/S2_SR_HARMONIZED')
+
+startDate = '2020-01-01'
+endDate = '2021-01-01'
+tile = '33UUP'

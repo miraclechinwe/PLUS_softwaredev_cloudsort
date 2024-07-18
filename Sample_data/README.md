@@ -1,0 +1,1 @@
+This folder icludes sample data which can be used for the project. The folder contains sample AOI and parameteres for a S2 image collection (timeperiod and tile number). There is also validation data on cloud free images identified vusually for an image collection created with the same sample parameters.
