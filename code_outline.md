@@ -17,22 +17,21 @@
 
 - create pseudo code for cloud coverage 
 
-# 3. Determine overall Cloud cover based on AOI
+# 3. Determine overall Cloud cover based on AOI & sort by Cloud Coverage in AOI
 
 - filter Image collection with low cloud-threshold (50-60%)
 - Set smaller AOI
 - create pixel level cloud mask for AOI -> see `learning_resources.md`
+- sort the resulting collection
 
-# 4. Sort by Cloud Coverage in AOI
 
-
-# 5. Create a Jupyter Notebook
+# 4. Create a Jupyter Notebook
 - Combine our Code
 - Clean the Code to make it easier to follow for users
 - add documentation in-line / within the notebook
 
-# 6. User-guide -> read.me
+# 5. User-guide -> read.me
 
 
-# (7. Create a Python package)
+# (6. Create a Python package)
 
